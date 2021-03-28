@@ -1,9 +1,9 @@
 ---
-title: And on the next one.
+title: And on to the next one.
 description: Like DJ Khaled Said... 
 date: 2018-07-04
 tags:
-  - 
+  - Second tag
 layout: layouts/post.njk
 ---
 I'm sure you know whats coming
