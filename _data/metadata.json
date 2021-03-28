@@ -2,9 +2,9 @@
   "title": "We are Zim Kids",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "We are Zim Kids is here to honour the jouney and experiences taken to get here.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "We are Zim Kids is here to honour the jouney and experiences taken to get here.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "PrincessMav",
+    "email": "princess-iza@hotmail.co.uk",
     "url": "https://example.com/about-me/"
   }
 }
