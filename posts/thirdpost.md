@@ -1,7 +1,7 @@
 ---
 title: Another One..
 description: Hello, Hello.
-date: 2021-Mar-25
+date: 2021-03-25
 tags:
   - Second tag 
 layout: layouts/post.njk
