@@ -7,8 +7,9 @@ eleventyNavigation:
   order: 4
 ---
 
-<div class="container">
-<form name="contact" method="POST" data-netlify="true">
+<div>
+  <div class="container">
+  <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" required /></label>   
   </p>
@@ -27,5 +28,34 @@ eleventyNavigation:
   <p>
     <button type="submit">Send</button>
   </p>
+  </form>
+  </div>
+
+<!-----T&Cs------->
+<div class="container">
+<input type="checkbox" id="T&Cs" name="T&Cs" value="T&Cs">
+<label for="T&Cs">I agree to the Terms of Service</label><br>
+</div>
+
+<!-----Subscribe------>
+<form action="action_page.php">
+  <div class="container">
+  <br>
+  <br>
+    <h2>Enjoying this? Subscribe to our Newsletter</h2>
+    <p>For updates and special announcements!</p>
+  </div>
+
+  <div class="container" style="background-color:white">
+    <input type="text" placeholder="Email address" name="mail" required>
+    <label>
+      <input type="checkbox" checked="checked" name="subscribe"> Monthly Newsletter
+    </label>
+  </div>
+
+  <div class="container">
+    <input type="submit" value="Subscribe">
+  </div>
 </form>
+
 </div>
